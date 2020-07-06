@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/jjob-manager-prototype/static/css/main.922dee1c.chunk.css",
+    "main.js": "/jjob-manager-prototype/static/js/main.09ef4fce.chunk.js",
+    "main.js.map": "/jjob-manager-prototype/static/js/main.09ef4fce.chunk.js.map",
+    "runtime-main.js": "/jjob-manager-prototype/static/js/runtime-main.9c2fcbca.js",
+    "runtime-main.js.map": "/jjob-manager-prototype/static/js/runtime-main.9c2fcbca.js.map",
+    "static/css/2.3882cc00.chunk.css": "/jjob-manager-prototype/static/css/2.3882cc00.chunk.css",
+    "static/js/2.4bbff26e.chunk.js": "/jjob-manager-prototype/static/js/2.4bbff26e.chunk.js",
+    "static/js/2.4bbff26e.chunk.js.map": "/jjob-manager-prototype/static/js/2.4bbff26e.chunk.js.map",
+    "index.html": "/jjob-manager-prototype/index.html",
+    "precache-manifest.9519d8b84ea7d46b88fc2b0ec983dd6d.js": "/jjob-manager-prototype/precache-manifest.9519d8b84ea7d46b88fc2b0ec983dd6d.js",
+    "service-worker.js": "/jjob-manager-prototype/service-worker.js",
+    "static/css/2.3882cc00.chunk.css.map": "/jjob-manager-prototype/static/css/2.3882cc00.chunk.css.map",
+    "static/css/main.922dee1c.chunk.css.map": "/jjob-manager-prototype/static/css/main.922dee1c.chunk.css.map",
+    "static/js/2.4bbff26e.chunk.js.LICENSE.txt": "/jjob-manager-prototype/static/js/2.4bbff26e.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/jjob-manager-prototype/static/media/icons-20.cef8cdbb.woff",
+    "static/media/logo.svg": "/jjob-manager-prototype/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c2fcbca.js",
+    "static/css/2.3882cc00.chunk.css",
+    "static/js/2.4bbff26e.chunk.js",
+    "static/css/main.922dee1c.chunk.css",
+    "static/js/main.09ef4fce.chunk.js"
+  ]
+}
